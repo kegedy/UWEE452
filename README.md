@@ -1,2 +1,2 @@
-# UWEE452
+# UWEE532
 Power Electronics Design
